@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded KarlsLanguage program">
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Program3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Program3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Program4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Program5.java" afterDir="false" />
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded assignment6">
+      <change afterPath="$PROJECT_DIR$/src/Assignment5/Program4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment5/Program5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Program3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710519235884</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="uploaded assignment6">
+      <option name="closed" value="true" />
+      <created>1710850823642</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710850823642</updated>
+    </task>
+    <task id="LOCAL-00012" summary="uploaded assignment6">
+      <option name="closed" value="true" />
+      <created>1710850841097</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710850841097</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +157,7 @@
     <MESSAGE value="updated BirdWatcher program" />
     <MESSAGE value="uploaded Squeakyclean program" />
     <MESSAGE value="uploaded KarlsLanguage program" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded KarlsLanguage program" />
+    <MESSAGE value="uploaded assignment6" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded assignment6" />
   </component>
 </project>
