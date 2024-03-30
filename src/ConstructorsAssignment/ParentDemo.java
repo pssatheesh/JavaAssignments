@@ -1,5 +1,7 @@
 package ConstructorsAssignment;
 
+import CombinedAssignment_2.Employee;
+
 class Student{
     int studentId;
     String studentName;

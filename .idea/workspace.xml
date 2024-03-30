@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="Upload constructor assignment">
-      <change afterPath="$PROJECT_DIR$/src/OverloadingOverridding/EmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverloadingOverridding/MovieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverloadingOverridding/VehicleDemo.java" afterDir="false" />
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="Upload overloading &amp; overridding assignment">
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/books/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/members/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/members/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/members/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/library/transactions/Transactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/musicplayer/Mainclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/musicplayer/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/musicplayer/StreamingPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/musicplayer/cdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/musicplayer/mp3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/sorting/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/sorting/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/university/UniversityManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/university/courses/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/university/courses/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/university/faculty/Facultymembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAssignment/university/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Program4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorsAssignment/ParentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorsAssignment/ParentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -34,15 +59,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/Consoleapplication"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucky Dell/IdeaProjects/CombinedAssignments&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -196,7 +221,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711542079495</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Upload overloading &amp; overridding assignment">
+      <option name="closed" value="true" />
+      <created>1711543664935</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711543664935</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Upload overloading &amp; overridding assignment">
+      <option name="closed" value="true" />
+      <created>1711543674480</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711543674480</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,6 +250,7 @@
     <MESSAGE value="uploaded assignment5" />
     <MESSAGE value="uploaded assignment classes and objects" />
     <MESSAGE value="Upload constructor assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload constructor assignment" />
+    <MESSAGE value="Upload overloading &amp; overridding assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload overloading &amp; overridding assignment" />
   </component>
 </project>
