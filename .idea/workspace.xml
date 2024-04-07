@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="Upload Exception handling assignment">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/document/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/document/Mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/employee/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/employee/Mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/employee/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/library/LibraryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/movie/movieMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/products/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/products/Product.java" afterDir="false" />
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="Upload Abstract class assignment">
+      <change afterPath="$PROJECT_DIR$/src/Exercism/ElonToyCar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program3.java" afterDir="false" />
@@ -50,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/ZSGS_School"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucky Dell/IdeaProjects/JavaAssignments&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -284,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712058350257</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Upload Abstract class assignment">
+      <option name="closed" value="true" />
+      <created>1712116361194</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1712116361194</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Upload Abstract class assignment">
+      <option name="closed" value="true" />
+      <created>1712116419874</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1712116419874</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +315,7 @@
     <MESSAGE value="Upload overloading &amp; overridding assignment" />
     <MESSAGE value="Upload interface &amp; packages assignment" />
     <MESSAGE value="Upload Exception handling assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Exception handling assignment" />
+    <MESSAGE value="Upload Abstract class assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Abstract class assignment" />
   </component>
 </project>
