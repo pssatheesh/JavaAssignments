@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="Upload Abstract class assignment">
-      <change afterPath="$PROJECT_DIR$/src/Exercism/ElonToyCar.java" afterDir="false" />
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded Need For Speed assignment">
+      <change afterPath="$PROJECT_DIR$/src/Exercism/LogLevels.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice/Program3.java" afterDir="false" />
@@ -47,6 +47,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucky Dell/IdeaProjects/JavaAssignments&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercism" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -288,7 +293,39 @@
       <option name="project" value="LOCAL" />
       <updated>1712116419874</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="uploaded ElonsToy car assignment">
+      <option name="closed" value="true" />
+      <created>1712477327917</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712477327917</updated>
+    </task>
+    <task id="LOCAL-00031" summary="uploaded ElonsToy car assignment">
+      <option name="closed" value="true" />
+      <created>1712477339299</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1712477339299</updated>
+    </task>
+    <task id="LOCAL-00032" summary="uploaded Need For Speed assignment">
+      <option name="closed" value="true" />
+      <created>1712492569304</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712492569304</updated>
+    </task>
+    <task id="LOCAL-00033" summary="uploaded Need For Speed assignment">
+      <option name="closed" value="true" />
+      <created>1712492578479</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1712492578479</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +353,8 @@
     <MESSAGE value="Upload interface &amp; packages assignment" />
     <MESSAGE value="Upload Exception handling assignment" />
     <MESSAGE value="Upload Abstract class assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Abstract class assignment" />
+    <MESSAGE value="uploaded ElonsToy car assignment" />
+    <MESSAGE value="uploaded Need For Speed assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded Need For Speed assignment" />
   </component>
 </project>
