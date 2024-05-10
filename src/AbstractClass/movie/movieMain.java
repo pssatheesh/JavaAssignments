@@ -1,5 +1,9 @@
 package AbstractClass.movie;
 
+
+/*Change 'Movie' class to abstract class and add additional abstract methods in 'Movie' class and define them in the child classes*/
+
+
 class HollywoodMovie extends Movie{
 
     public HollywoodMovie(String movieName, String movieGenre, int ticketPrice) {

@@ -1,6 +1,8 @@
 package ArrayListAssignment;
 
 
+/* Create a class implementing a circular buffer using an ArrayList of Strings for a messaging service. This buffer should have a fixed size and overwrite the oldest element when full.*/
+
 import java.util.ArrayList;
 
 class circularList{

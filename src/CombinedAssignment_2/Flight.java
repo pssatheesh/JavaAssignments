@@ -1,5 +1,5 @@
 package CombinedAssignment_2;
-
+//Create Flight DTO class. Create appropriate instance variables, static variables and methods with appropriate access modifiers.
 public class Flight {
     private String flightName;
     private String flightModel;

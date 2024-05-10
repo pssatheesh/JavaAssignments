@@ -2,6 +2,8 @@ package ArrayListAssignment;
 
 import java.util.*;
 
+/* Write a program that sorts an ArrayList of custom objects based on a specific property using a custom comparator class implementing the Comparator interface.*/
+
 public class SortingArraylist {
     public static void main(String[] args) {
         List<Book> bookList=new ArrayList<>();

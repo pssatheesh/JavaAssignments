@@ -1,7 +1,7 @@
 package Assignment1;
 
 import java.util.Scanner;
-    //Random number
+    //Write a program to print a random number
 public class Program3 {
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);

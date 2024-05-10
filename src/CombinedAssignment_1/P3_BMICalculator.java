@@ -1,5 +1,6 @@
 package CombinedAssignment_1;
-
+/*In the BMI calculator program done in Java Assignment 2, write methods to get height and weight for 2 or more persons and compare their BMIs.
+ */
 import java.util.Scanner;
 
 public class P3_BMICalculator {

@@ -1,5 +1,5 @@
 package ExceptionHandling.bank;
-
+/*Create multiple classes to imitate a bank structure with proper Exception Handling. For eg., if the user tries to withdraw more than the balance, throw "InsufficientBalanceException" (created customly)*/
 public class BankClass {
     int balance=1000;
     void deposit(int amount){

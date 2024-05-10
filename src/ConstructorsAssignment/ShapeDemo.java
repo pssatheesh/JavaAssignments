@@ -1,4 +1,9 @@
 package ConstructorsAssignment;
+
+/* Write a hierarchy of geometric shape classes 'Circle', 'Rectangle', etc inherited from a common base class 'Shape'*/
+
+
+
 class Shape{
     double base;
     double height;

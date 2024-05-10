@@ -1,5 +1,8 @@
 package ConstructorsAssignment;
 
+/* Design a Student Parent class and ZSGSStudent Child class. Create constructors in both class with varying number of parameters. Call parent constructor from child constructor. Try experimenting by creating child object using parent constructor.*/
+
+
 import CombinedAssignment_2.Employee;
 
 class Student{

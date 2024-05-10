@@ -1,5 +1,5 @@
 package Assignment1;
-
+//Create multiple classes in single file and compile and explore how many .class files are generated.
 import java.util.Scanner;
 class ClassA{
     void classA1(){

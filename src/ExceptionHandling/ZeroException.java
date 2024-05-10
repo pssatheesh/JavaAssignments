@@ -2,6 +2,8 @@ package ExceptionHandling;
 
 import java.util.Scanner;
 
+//Write a program for division with proper divide-by-zero exception handling
+
 public class ZeroException {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

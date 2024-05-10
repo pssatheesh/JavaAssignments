@@ -1,5 +1,8 @@
 package AbstractClass.employee;
 
+/* Change Employee class as abstract and add abstract methods like calculatePay() with concrete methods like getEmployeeDetails(), etc. Extend this abstract class in subclasses - HourlyEmployee and SalariedEmployee. Allow the user to input details of employees and calculate their respective pay using the abstract class reference.*/
+
+
 public class Mainclass {
     public static void main(String[] args) {
         Employee emp=new HourlyEmployee(7151, "Arun", 25);

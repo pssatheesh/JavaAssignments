@@ -1,7 +1,7 @@
 package Assignment3;
 
 import java.util.Scanner;
-
+//Create a program that takes a student's score as input and outputs their corresponding grade.
 public class Program3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

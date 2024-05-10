@@ -1,7 +1,7 @@
 package Assignment6;
 
 import java.util.Scanner;
-
+//Write a program to reverse the words in a sentence.
 public class Program3 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

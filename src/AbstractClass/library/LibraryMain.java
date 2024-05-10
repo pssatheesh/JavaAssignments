@@ -1,5 +1,9 @@
 package AbstractClass.library;
 
+/*In the book class, add methods to prevent unauthorized modification of book information. Clue: Use login to check authorized personal while updating book details.
+ */
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

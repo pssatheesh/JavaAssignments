@@ -1,5 +1,6 @@
 package Assignment5;
  //Matrix Multiplication
+//Write a program to implement matrix multiplication
 public class Program3 {
     static void matrixMultiply(int [][]A, int [][]B){
         int row1=A.length;

@@ -1,5 +1,5 @@
 package CombinedAssignment_1;
-
+/*Write a program that calculates the average weight of 10 people. Use descriptive and meaningful variable names following Java naming conventions. Use proper datatypes for the variables.*/
 public class P1_AverageWeight {
     public static void main(String[] args) {
         double []weight10={35.4,40,65,56,44.5,28,60,85,45.4,53.4};

@@ -3,6 +3,8 @@ package ExceptionHandling;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+// Create a program to get phone number from the user and throw InputMismatchException if the user enters non-number input
+
 public class InputMismatch {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

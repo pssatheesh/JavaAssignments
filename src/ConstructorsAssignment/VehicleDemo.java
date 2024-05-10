@@ -1,4 +1,6 @@
 package ConstructorsAssignment;
+
+//Create Vehicle Hierarchy
 class vehicle{
     String vehicleName;
     String vehicleType;

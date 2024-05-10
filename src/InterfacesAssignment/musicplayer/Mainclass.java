@@ -2,6 +2,11 @@ package InterfacesAssignment.musicplayer;
 
 import java.util.Scanner;
 
+
+/*Define an interface named Playable with methods like play() , pause() , and stop() . Implement this interface in classes representing different types of music players such as MP3Player , CDPlayer , and StreamingPlayer . Allow the user to control the playback of these players through the implemented interface.
+ */
+
+
 public class Mainclass {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

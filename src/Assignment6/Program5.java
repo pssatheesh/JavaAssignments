@@ -1,5 +1,5 @@
 package Assignment6;
-
+//Write a program to capitalize the first letter of each words in a sentence.
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 package Assignment1;
 
 import java.util.Scanner;
-
+//Write a program to demonstrate compatible type conversions. For eg., float to int, double to float, int to short
 public class Program1 {
     public static void main(String []args) {
         Scanner sc = new Scanner(System.in);

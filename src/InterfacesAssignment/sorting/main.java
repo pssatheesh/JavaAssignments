@@ -2,6 +2,9 @@ package InterfacesAssignment.sorting;
 
 import java.util.Scanner;
 
+/*Define an interface named Sortable with a method sort() . Implement this interface in classes representing different sorting algorithms such as bubble sort, quicksort, and merge sort. Allow the user to input an array, select a sorting algorithm, and display the sorted array.*/
+
+
 public class main {
     public static void main(String[] args) {
         int []arr={4,6,8,3,7,1,2};

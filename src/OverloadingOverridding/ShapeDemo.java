@@ -1,4 +1,7 @@
 package OverloadingOverridding;
+
+/*Use the hierarchy of shape classes done already in previous assignments. Demonstrate polymorphism by calculating area and perimeter of various shapes.*/
+
 class Shape{
     double dim1;
     double dim2;

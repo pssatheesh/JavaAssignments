@@ -2,6 +2,9 @@ package ExceptionHandling;
 
 import java.util.Scanner;
 
+//Write program to demonstrate ArrayIndexOutOfBoundsException
+
+
 public class ArrayIndex {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

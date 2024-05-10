@@ -1,7 +1,7 @@
 package Assignment2;
 
 import java.util.Scanner;
-
+//Write a program to convert time entered in seconds to HH:mm:ss format
 public class Program5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

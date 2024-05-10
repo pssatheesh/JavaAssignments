@@ -1,5 +1,5 @@
 package CombinedAssignment_1;
-
+/*4. Create a class Product and add appropriate instance variables with different datatypes and try printing them. Note: See declaration for System.out.println method for various datatypes*/
 import java.util.Scanner;
 
 public class P4_Product {

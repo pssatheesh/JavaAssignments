@@ -1,5 +1,5 @@
 package CombinedAssignment_2;
-
+//Write two DTO classes to exhibit the has-a relationship given in the diagram.
 class Player{
     private String name;
     private String position;

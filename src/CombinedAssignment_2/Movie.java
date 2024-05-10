@@ -1,5 +1,5 @@
 package CombinedAssignment_2;
-
+//Create a Movie DTO class
 public class Movie {
     private String movieName;
     private int movieRating;

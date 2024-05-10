@@ -1,7 +1,7 @@
 package Assignment4;
 
 import java.util.Scanner;
-
+// Write a program to print prime numbers between 1 to 30
 //Prime Number
 public class Program2 {
     public static void main(String[] args){

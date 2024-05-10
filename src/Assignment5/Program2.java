@@ -1,7 +1,7 @@
 package Assignment5;
 
 import java.util.Scanner;
-
+//Write a program to find transpose of a matrix
 //Transpose Matrix
 public class Program2 {
     public static void main(String[] args) {

@@ -3,6 +3,7 @@ package Assignment1;
 import java.util.Scanner;
 
 //Swapping program
+//Write a program to swap the two given numbers.
 public class Program5 {
     public static void main(String []args) {
         Scanner sc = new Scanner(System.in);

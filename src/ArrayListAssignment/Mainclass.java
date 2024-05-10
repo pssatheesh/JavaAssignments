@@ -3,6 +3,8 @@ package ArrayListAssignment;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*. Create ArrayList of the book class (ArrayList<Book>) in main method. Add methods to add books to the ArrayList*/
+
 public class Mainclass {
     public static void main(String[] args) {
         ArrayList<Book> booklist=new ArrayList<>();

@@ -1,7 +1,7 @@
 package Assignment2;
 
 import java.util.Scanner;
-
+//Write a program to calculate a person's Body Mass Index on user input for weight and height. Get BMI formula from the internet.
 //Body Mass Index
 public class Program4 {
     public static void main(String[] args) {

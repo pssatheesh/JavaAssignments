@@ -1,7 +1,7 @@
 package Assignment5;
 
 import java.util.Scanner;
-
+// Write a program to generate the matrix with integers in spiral order. Get size N from the user and generate an NxN spiral matrix.
 //Sprial order matrix printing
 public class Program4 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package Assignment1;
 
 import java.util.Scanner;
-
+// Write a Java program that gets a number from the user and displays the name of the weekday. Use enum.
 public class Program2 {
     enum weekdays {
         Sunday,

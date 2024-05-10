@@ -1,5 +1,8 @@
 package AbstractClass.movie;
 
+/*Change 'Movie' class to abstract class and add additional abstract methods in 'Movie' class and define them in the child classes*/
+
+
 abstract class Movie {
     String movieName;
     String movieGenre;
