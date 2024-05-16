@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded Question in code">
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded stack assignment 2 question">
+      <change afterPath="$PROJECT_DIR$/src/StackAssignment/CPUJobScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAssignment/PlayListLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListAssignment/ArrayListperformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListAssignment/ArrayListperformance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/Consoleapplication"
+    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/ApartmentAdmin"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -406,7 +407,39 @@
       <option name="project" value="LOCAL" />
       <updated>1715331031145</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="uploaded 4th Question in Arraylist assignment">
+      <option name="closed" value="true" />
+      <created>1715497285969</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715497285969</updated>
+    </task>
+    <task id="LOCAL-00044" summary="uploaded 4th Question in Arraylist assignment">
+      <option name="closed" value="true" />
+      <created>1715497295546</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1715497295546</updated>
+    </task>
+    <task id="LOCAL-00045" summary="uploaded stack assignment 2 question">
+      <option name="closed" value="true" />
+      <created>1715745348811</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1715745348811</updated>
+    </task>
+    <task id="LOCAL-00046" summary="uploaded stack assignment 2 question">
+      <option name="closed" value="true" />
+      <created>1715745357915</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1715745357915</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +473,8 @@
     <MESSAGE value="uploaded ArrayList assignment" />
     <MESSAGE value="uploaded Multithreading assignment" />
     <MESSAGE value="uploaded Question in code" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded Question in code" />
+    <MESSAGE value="uploaded 4th Question in Arraylist assignment" />
+    <MESSAGE value="uploaded stack assignment 2 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded stack assignment 2 question" />
   </component>
 </project>
