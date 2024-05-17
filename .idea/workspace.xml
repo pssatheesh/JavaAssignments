@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded stack assignment 2 question">
-      <change afterPath="$PROJECT_DIR$/src/StackAssignment/CPUJobScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAssignment/PlayListLL.java" afterDir="false" />
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded stack assignment last 2 question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Downloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/ApartmentAdmin"
+    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/JavaAssignments"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -439,7 +441,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715745357915</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="uploaded stack assignment last 2 question">
+      <option name="closed" value="true" />
+      <created>1715853336024</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715853336024</updated>
+    </task>
+    <task id="LOCAL-00048" summary="uploaded stack assignment last 2 question">
+      <option name="closed" value="true" />
+      <created>1715853348471</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1715853348471</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,6 +493,7 @@
     <MESSAGE value="uploaded Question in code" />
     <MESSAGE value="uploaded 4th Question in Arraylist assignment" />
     <MESSAGE value="uploaded stack assignment 2 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded stack assignment 2 question" />
+    <MESSAGE value="uploaded stack assignment last 2 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded stack assignment last 2 question" />
   </component>
 </project>
