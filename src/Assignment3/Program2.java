@@ -14,11 +14,14 @@ public class Program2 {
                 days=30;
                 break;
         }
-        if(year%4==0 && (year%100==0 || year%400==0)){
-            days=days-1;
-        }else{
-            days=days-2;
+        if(mon==2){
+            if(year%4==0 && (year%100==0 || year%400==0)){
+                days=days-1;
+            }else{
+                days=days-2;
+            }
         }
+
         return days;
     }
     public static void main(String[] args) {

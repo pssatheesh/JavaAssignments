@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded stack assignment last 2 question">
+    <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded multithreading  assignment updated 2 question">
+      <change afterPath="$PROJECT_DIR$/src/JavascriptAssignment/ProfileCard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Downloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment3/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment3/Program2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,11 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/JavaAssignments"
+    "last_opened_file_path": "C:/Users/Lucky Dell/IdeaProjects/JavaAssignments",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710057356225</updated>
-    </task>
-    <task id="LOCAL-00001" summary="updated Program4">
-      <option name="closed" value="true" />
-      <created>1710147420967</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1710147420967</updated>
     </task>
     <task id="LOCAL-00002" summary="updated Program4">
       <option name="closed" value="true" />
@@ -457,7 +452,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715853348471</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="uploaded multithreading  assignment updated 2 question">
+      <option name="closed" value="true" />
+      <created>1715936736944</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1715936736944</updated>
+    </task>
+    <task id="LOCAL-00050" summary="uploaded multithreading  assignment updated 2 question">
+      <option name="closed" value="true" />
+      <created>1715936752416</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1715936752416</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,6 +505,7 @@
     <MESSAGE value="uploaded 4th Question in Arraylist assignment" />
     <MESSAGE value="uploaded stack assignment 2 question" />
     <MESSAGE value="uploaded stack assignment last 2 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded stack assignment last 2 question" />
+    <MESSAGE value="uploaded multithreading  assignment updated 2 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded multithreading  assignment updated 2 question" />
   </component>
 </project>

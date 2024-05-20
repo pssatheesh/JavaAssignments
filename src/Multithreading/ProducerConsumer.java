@@ -4,6 +4,12 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
+/*Simple File Download (Thread Interruption and Monitoring):
+
+Create a thread to download a file from a URL.
+Implement thread interruption to gracefully stop the download if needed (e.g., using a flag).
+Monitor the download progress and provide feedback (e.g., percentage downloaded).*/
+
 
 class Producer extends Thread {
     private final Queue<Integer> buffer;
