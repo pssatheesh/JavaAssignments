@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032b597f-2160-434b-88fa-553d04910cd8" name="Changes" comment="uploaded multithreading  assignment updated 2 question">
-      <change afterPath="$PROJECT_DIR$/src/JavascriptAssignment/ProfileCard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DomAssignment1/ProfileCard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListAssignment/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListAssignment/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListAssignment/SortingArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListAssignment/SortingArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment3/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment3/Program2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment6/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment6/Program1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/DownloaderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,22 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710057356225</updated>
-    </task>
-    <task id="LOCAL-00002" summary="updated Program4">
-      <option name="closed" value="true" />
-      <created>1710147430847</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1710147430847</updated>
-    </task>
-    <task id="LOCAL-00003" summary="updated Program4">
-      <option name="closed" value="true" />
-      <created>1710405114519</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1710405114519</updated>
     </task>
     <task id="LOCAL-00004" summary="updated 2 programs">
       <option name="closed" value="true" />
@@ -468,7 +454,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715936752416</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="uploaded multithreading  assignment updated 2 question">
+      <option name="closed" value="true" />
+      <created>1716188596758</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1716188596758</updated>
+    </task>
+    <task id="LOCAL-00052" summary="uploaded multithreading  assignment updated 2 question">
+      <option name="closed" value="true" />
+      <created>1716188604481</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1716188604481</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

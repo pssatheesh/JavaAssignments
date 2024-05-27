@@ -13,13 +13,13 @@ Implement synchronization (e.g., wait-notify) to ensure the consumer doesn't acc
 public class DownloaderMain {
     public static void main(String[] args) {
         String url = "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80";
-        String destinationPath = "C:/Users/Lucky Dell/Desktop";
+        String destinationPath = "Downloads";
 
         Downloader downloader = new Downloader(url, destinationPath);
         downloader.start();
 
         try {
-            Thread.sleep(500);
+            Thread.sleep(1500);
             downloader.stopDownload();
         } catch (InterruptedException e) {
             e.printStackTrace();

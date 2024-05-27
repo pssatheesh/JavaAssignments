@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>satheesh.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .card {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          max-width: 400px;
+          margin: auto;
+          text-align: center;
+          font-family: arial;
+        }
+
+        .title {
+          color: grey;
+          font-size: 18px;
+        }
+
+        button {
+          border: none;
+          outline: 0;
+          display: inline-block;
+          padding: 8px;
+          color: white;
+          background-color: #000;
+          text-align: center;
+          cursor: pointer;
+          width: 100%;
+          font-size: 18px;
+        }
+
+        a {
+          text-decoration: none;
+          font-size: 22px;
+          color: black;
+        }
+
+        button:hover, a:hover {
+          opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+<h2 style="text-align:center">User Profile Card</h2>
+
+<div class="card">
+    <img src="D:\wallpaper\smiley.jpg" id="profile-img" alt="John" style="width:100%">
+    <h2 id="profile-name"><strong>Name:</strong>John Doe</h2>
+    <h3 id="profile-username"><strong>Username:</strong>johndoe34</h3>
+    <p id="profile-email"><strong>Email:</strong> example@example.com</p>
+    <p id="profile-dob"><strong>DOB:</strong> Jan 1, 1990</p>
+    <p class="title" id="profile-address">PSC 1170, Box 6296, APO AE 22822</p>
+    <div style="margin: 24px 0;">
+        <a href="#" id="profile-twitter"><i class="fa fa-twitter"></i></a>
+        <a href="#" id="profile-linkedin"><i class="fa fa-linkedin"></i></a>
+        <a href="#" id="profile-facebook"><i class="fa fa-facebook"></i></a>
+        <a href="#" id="profile-dribble"><i class="fa fa-dribbble"></i></a>
+    </div>
+    <p>
+        <button>Contact</button>
+    </p>
+    <p>
+        <button onclick="gotonextpage()">Edit</button>
+    </p>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+
+
+    $(document).ready(function() {
+    // Function to fetch random user data
+    function fetchRandomUser() {
+      $.ajax({
+        url: 'https://randomuser.me/api',
+        dataType: 'json',
+        success: function(data) {
+          const user = data.results[0];
+
+          // Update profile card with API data
+          $('#profile-img').attr('src', user.picture.large);
+          $('#profile-name').text(`${user.name.first} ${user.name.last}`);
+          $('#profile-username').text(`@${user.login.username}`);
+          $('#profile-email').text(`Email: ${user.email}`);
+          $('#profile-dob').text(`DOB: ${new Date(user.dob.date).toLocaleDateString()} (Age: ${user.dob.age})`);
+          $('#profile-address').text(`Street: ${user.location.street.number} ${user.location.street.name} ${user.location.country}`);
+          $('#profile-twitter').attr('href', `https://twitter.com/${user.login.username}`);
+          $('#profile-facebook').attr('href', `https://facebook.com/${user.login.username}`);
+          $('#profile-instagram').attr('href', `https://instagram.com/${user.login.username}`);
+          $('#profile-linkedin').attr('href', `https://linkedin.com/in/${user.login.username}`);
+        },
+        error: function(error) {
+          console.error("Error fetching random user:", error);
+        }
+      });
+    }
+
+    // Fetch random user data on page load
+    fetchRandomUser();
+  });
+
+
+
+</script>
+
+</body>
+</html>
+

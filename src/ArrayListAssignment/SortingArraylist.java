@@ -2,7 +2,16 @@ package ArrayListAssignment;
 
 import java.util.*;
 
-/* Write a program that sorts an ArrayList of custom objects based on a specific property using a custom comparator class implementing the Comparator interface.*/
+/* Write a program that sorts an ArrayList of custom objects based on a specific
+property using a custom comparator class implementing the Comparator interface.*/
+
+class titleComparator implements Comparator<Book>{
+
+    @Override
+    public int compare(Book o1, Book o2) {
+        return CharSequence.compare(o1.getTitle(), o2.getTitle());
+    }
+}
 
 public class SortingArraylist {
     public static void main(String[] args) {
@@ -11,8 +20,7 @@ public class SortingArraylist {
         bookList.add(new Book(202,"Ramayanam", "Kalki", 1995));
         bookList.add(new Book(203,"Mahabarath", "valmiki", 1996));
 
-        Comparator<Book> cmp=Comparator.comparing(Book ::getTitle);
-        Collections.sort(bookList, cmp);
+        Collections.sort(bookList, new titleComparator());
         for(Book book:bookList){
             System.out.println(book);
         }
